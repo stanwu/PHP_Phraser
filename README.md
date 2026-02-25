@@ -203,3 +203,9 @@ git push origin v1.0.0
 - 巨型 heredoc / 動態字串中夾雜控制流程關鍵字
 
 如需 100% 精確的 AST 分析，請考慮使用 `nikic/php-parser` 等完整解析器。
+
+---
+
+## 授權
+
+MIT License（見 `LICENSE`）。
