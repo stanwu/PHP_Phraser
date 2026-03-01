@@ -1,4 +1,4 @@
-# PHP_Phraser（PHP 分支/巢狀複雜度分析器）- Gemini 版本
+# php-analysis（PHP 分支/巢狀複雜度分析器）- Gemini 版本
 
 這個專案收錄了多個「以正規表示式/淺層字串解析」為主的 PHP 靜態掃描器，用來統計程式碼中的 `if / elseif / else` 分支數量、巢狀深度，並輸出 `analysis_report.json` 報表。
 
